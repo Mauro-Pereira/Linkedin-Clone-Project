@@ -1,6 +1,6 @@
 ### Linkedin-Clone
 
-Este tinha como objetivo o estudo em React.js
+Este projeto tinha como objetivo o estudo em React.js
 
 ![](/ScreenShot/linkedin-clone.png)
 
