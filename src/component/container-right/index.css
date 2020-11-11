@@ -1,0 +1,51 @@
+.container-right{
+    width: 28%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+
+
+.content{
+    width: 80%;
+    height: 70%;
+    background-color: white;
+    margin-top: 9px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.right-list{
+    width: 100%;
+    height: 80%;
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.right-list li{
+    width: 100%;
+    height: 10%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    
+}
+
+.right-list p{
+    font-size: 40px;
+    color: rgb(97, 209, 247);
+    margin-right: 9px;
+}
+
+.right-list h4{
+    font-size: 18px;
+}
+
